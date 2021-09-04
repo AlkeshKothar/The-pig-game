@@ -22,6 +22,8 @@ Below are the screenshot for the project
 
 <img src="readmeimages/main3.png" width="60%">
 
+Thanks for visiting.
+
 
 
 
